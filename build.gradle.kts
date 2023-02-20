@@ -15,7 +15,7 @@ allOpen {
     annotation("javax.persistence.MappedSuperclass")
 }
 
-group = "com.github.chayanforyou"
+group = "io.github.chayanforyou"
 version = "0.0.1-SNAPSHOT"
 java.sourceCompatibility = JavaVersion.VERSION_17
 
