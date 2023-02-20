@@ -1,4 +1,4 @@
-package com.github.chayanforyou.findmeds.service
+package io.github.chayanforyou.findmeds.service
 
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.core.env.Environment

@@ -1,4 +1,4 @@
-package com.github.chayanforyou.findmeds
+package io.github.chayanforyou.findmeds
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

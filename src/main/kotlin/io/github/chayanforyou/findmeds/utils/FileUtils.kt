@@ -1,4 +1,4 @@
-package com.github.chayanforyou.findmeds.utils
+package io.github.chayanforyou.findmeds.utils
 
 import org.springframework.http.MediaType
 import org.springframework.web.multipart.MultipartFile

@@ -1,4 +1,4 @@
-package com.github.chayanforyou.findmeds
+package io.github.chayanforyou.findmeds
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
